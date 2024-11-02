@@ -1,4 +1,4 @@
 # Jogo:
 
-ESCOLHA UM NÚMERO ENTRE 1 E 100, SE VOCÊ NÃO ACERTAR EM 10 TENTATIVAS
-VOCÊ MORR...digo...você perde o jogo.
+ESCOLHA UM NÚMERO ENTRE 1 E 100, SE VOCÊ NÃO ACERTAR EM 10 TENTATIVAS, VOCÊ MORR...digo...você perde o jogo.
+
